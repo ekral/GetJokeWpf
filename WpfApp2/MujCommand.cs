@@ -15,6 +15,7 @@ namespace WpfApp2
         public bool CanExecute(object parameter)
         {
             return true;
+
         }
 
         public void Execute(object parameter)
